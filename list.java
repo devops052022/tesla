@@ -2,6 +2,3 @@
 simon
 peter
 paul
-
-
-
